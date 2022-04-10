@@ -1,0 +1,2 @@
+jailbreak - https://rekonise.com/jailbreak-script-s2ago
+dahood - loadstring(game:HttpGet("https://raw.githubusercontent.com/Impulseonyoutube/scripts/main/dahood%22))()
